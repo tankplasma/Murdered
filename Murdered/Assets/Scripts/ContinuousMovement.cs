@@ -33,7 +33,6 @@ public class ContinuousMovement : MonoBehaviour
 
         InputDevice device = InputDevices.GetDeviceAtXRNode(inputSource);
         device.TryGetFeatureValue(CommonUsages.primary2DAxis, out inputAxis);
-        Debug.Log(device);
         InputDevice devicePressed = InputDevices.GetDeviceAtXRNode(inputSource);
     }
 

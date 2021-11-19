@@ -22,7 +22,7 @@ public class HandAnimation : MonoBehaviour
         InputDevice device = InputDevices.GetDeviceAtXRNode(inputSource);
         device.TryGetFeatureValue(CommonUsages.trigger, out trigger);
         device.TryGetFeatureValue(CommonUsages.grip, out grip);
-        annimation = GetComponent<Animator>();
+        annimation = GetComponentInChildren<Animator>();
 
         annimation.SetLayerWeight(1, trigger-grip);       
         annimation.SetLayerWeight(2, grip-trigger);
