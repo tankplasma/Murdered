@@ -16,12 +16,14 @@ public class RayCastHand : MonoBehaviour
 
     private int mask;
 
+    public Transform raycastPoint;
+
     public GameObject ObjectSelected;
 
     void Start()
     {
-        distance = 0.05f;
-        mask = 1 << 0;
+        distance = 1f;
+        mask = 1 << 9;
     }
 
     // Update is called once per frame
@@ -36,7 +38,8 @@ public class RayCastHand : MonoBehaviour
         }
         if (grip < 1f)
         {
-            Debug.DrawRay(gameObject.transform.position, gameObject.transform.TransformDirection(Vector3.down) * distance, Color.black);
+            Debug.DrawRay(raycastPoint.transform.position, gameObject.transform.TransformDirection(Vector3.forward) * distance, Color.black);
+            ObjectSelected = null;
         }
     }
 
@@ -46,16 +49,16 @@ public class RayCastHand : MonoBehaviour
 
         RaycastHit hit;
 
-        ray = new Ray(gameObject.transform.position, gameObject.transform.TransformDirection(Vector3.down));
+        ray = new Ray(raycastPoint.transform.position, gameObject.transform.TransformDirection(Vector3.forward));
 
-        if (Physics.Raycast(ray, out hit, distance))
+        if (Physics.Raycast(ray, out hit, distance , mask))
         {
-            Debug.DrawRay(gameObject.transform.position, gameObject.transform.TransformDirection(Vector3.down) * distance, Color.red);
+            Debug.DrawRay(raycastPoint.transform.position, gameObject.transform.TransformDirection(Vector3.forward) * distance, Color.red);
             ObjectSelected = hit.collider.gameObject;
         }
         else
         {
-            Debug.DrawRay(gameObject.transform.position, gameObject.transform.TransformDirection(Vector3.down) * distance, Color.yellow);
+            Debug.DrawRay(raycastPoint.transform.position, gameObject.transform.TransformDirection(Vector3.forward) * distance, Color.yellow);
         }
     }
 }

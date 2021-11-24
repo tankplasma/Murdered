@@ -65,8 +65,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ContinuousMovement.cs" />
+    <Compile Include="Assets\Scripts\Elevator.cs" />
+    <Compile Include="Assets\Scripts\ElevatorButton.cs" />
     <Compile Include="Assets\Scripts\HandAnimation.cs" />
     <Compile Include="Assets\Scripts\LeverJoin.cs" />
+    <Compile Include="Assets\Scripts\Pen.cs" />
     <Compile Include="Assets\Scripts\RayCastHand.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

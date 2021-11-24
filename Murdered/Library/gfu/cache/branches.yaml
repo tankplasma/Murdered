@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-11-18T19:37:50.985+01:00
-  initializedAtString: 2021-11-18T19:37:49.880+01:00
+  lastUpdatedAtString: 2021-11-22T17:28:39.619+01:00
+  initializedAtString: 2021-11-22T16:32:19.980+01:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - main
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/tankplasma/Murdered
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/tankplasma/Murdered

@@ -13,9 +13,2913 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-11-18T19:37:51.900+01:00
-  initializedAtString: 2021-11-18T19:37:51.002+01:00
+  lastUpdatedAtString: 2021-11-22T17:28:39.654+01:00
+  initializedAtString: 2021-11-22T16:32:28.214+01:00
   log:
+  - commitID: f7a7fcedd374e9af40747a8eb7165fba3061e39c
+    mergeA: 
+    mergeB: 
+    authorName: tankplasma
+    authorEmail: adrien.alard@gmail.com
+    commitEmail: adrien.alard@gmail.com
+    commitName: tankplasma
+    summary: ajout de levier , ray cast
+    description: 
+    timeString: 2021-11-19T01:11:24.000+01:00
+    commitTimeString: 2021-11-19T01:11:24.000+01:00
+    changes:
+    - path: Murdered\.gitignore
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\.vs\Murdered\v16\.suo
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\.vs\Murdered\v16\.suo
+      projectPath: .vs\Murdered\v16\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Assembly-CSharp.csproj
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches.meta
+      projectPath: Assets\LeversAndSwitches.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX.meta
+      projectPath: Assets\LeversAndSwitches\FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Button1.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Button1.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Button1.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Button1.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Button1.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Button1.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Button2.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Button2.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Button2.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Button2.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Button2.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Button2.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever1.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever1.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever1.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever1.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever1.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever1.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever10.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever10.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever10.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever10.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever10.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever10.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever11.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever11.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever11.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever11.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever11.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever11.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever12.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever12.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever12.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever12.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever12.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever12.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever13.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever13.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever13.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever13.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever13.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever13.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever2.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever2.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever2.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever2.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever2.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever2.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever3.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever3.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever3.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever3.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever3.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever3.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever4.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever4.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever4.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever4.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever4.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever4.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever5.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever5.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever5.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever5.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever5.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever5.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever6.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever6.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever6.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever6.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever6.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever6.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever7.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever7.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever7.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever7.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever7.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever7.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever8.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever8.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever8.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever8.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever8.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever8.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever9.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever9.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Lever9.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Lever9.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Lever9.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Lever9.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\LightSwitch.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\LightSwitch.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\LightSwitch.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\LightSwitch.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\LightSwitch.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\LightSwitch.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Panel1.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Panel1.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Panel1.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Panel1.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Panel1.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Panel1.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Panel2.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Panel2.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Panel2.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Panel2.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Panel2.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Panel2.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Panel3.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Panel3.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\Panel3.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\Panel3.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\Panel3.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\Panel3.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\SideLever1.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\SideLever1.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\SideLever1.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\SideLever1.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\SideLever1.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\SideLever1.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\SideLever2.fbx
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\SideLever2.fbx
+      projectPath: Assets\LeversAndSwitches\FBX\SideLever2.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\FBX\SideLever2.fbx.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\FBX\SideLever2.fbx.meta
+      projectPath: Assets\LeversAndSwitches\FBX\SideLever2.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\texture.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\texture.meta
+      projectPath: Assets\LeversAndSwitches\texture.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\texture\Gradients.jpg
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\texture\Gradients.jpg
+      projectPath: Assets\LeversAndSwitches\texture\Gradients.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\LeversAndSwitches\texture\Gradients.jpg.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\LeversAndSwitches\texture\Gradients.jpg.meta
+      projectPath: Assets\LeversAndSwitches\texture\Gradients.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scripts\ContinuousMovement.cs
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scripts\ContinuousMovement.cs
+      projectPath: Assets\Scripts\ContinuousMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scripts\HandAnimation.cs
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scripts\HandAnimation.cs
+      projectPath: Assets\Scripts\HandAnimation.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scripts\LeverJoin.cs
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scripts\LeverJoin.cs
+      projectPath: Assets\Scripts\LeverJoin.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scripts\LeverJoin.cs.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scripts\LeverJoin.cs.meta
+      projectPath: Assets\Scripts\LeverJoin.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scripts\RayCastHand.cs
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scripts\RayCastHand.cs
+      projectPath: Assets\Scripts\RayCastHand.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Assets\Scripts\RayCastHand.cs.meta
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Assets\Scripts\RayCastHand.cs.meta
+      projectPath: Assets\Scripts\RayCastHand.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ArtifactDB
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\02\028563134ef45421513428c4fa0c6ffc
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\02\028563134ef45421513428c4fa0c6ffc
+      projectPath: Library\Artifacts\02\028563134ef45421513428c4fa0c6ffc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      projectPath: Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\08\084a45f5e142fe160e30c0722520c7e0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\08\084a45f5e142fe160e30c0722520c7e0
+      projectPath: Library\Artifacts\08\084a45f5e142fe160e30c0722520c7e0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\08\084b6cb6fe1726d0377fa7ae3da0f6a5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\08\084b6cb6fe1726d0377fa7ae3da0f6a5
+      projectPath: Library\Artifacts\08\084b6cb6fe1726d0377fa7ae3da0f6a5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\09\09190b32d0787af056d265a0cf815d16
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\09\09190b32d0787af056d265a0cf815d16
+      projectPath: Library\Artifacts\09\09190b32d0787af056d265a0cf815d16
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\0b\0bd36424d4197a257cc70c7ddb0f7e6c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\0b\0bd36424d4197a257cc70c7ddb0f7e6c
+      projectPath: Library\Artifacts\0b\0bd36424d4197a257cc70c7ddb0f7e6c
+      originalPath: Murdered\Library\Artifacts\99\99645c7204bbbfe43e292b65efd173c3
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\0c\0c6983a698ecd557a49aa542811c8a25
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\0c\0c6983a698ecd557a49aa542811c8a25
+      projectPath: Library\Artifacts\0c\0c6983a698ecd557a49aa542811c8a25
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\10\100109047ae530df14ad1c14b1e205e9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\10\100109047ae530df14ad1c14b1e205e9
+      projectPath: Library\Artifacts\10\100109047ae530df14ad1c14b1e205e9
+      originalPath: Murdered\Library\Artifacts\af\af3e82445a1acbb233a4eff975b16cc8
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\11\115f75f924d14e69e9fb3c9f43201ea5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\11\115f75f924d14e69e9fb3c9f43201ea5
+      projectPath: Library\Artifacts\11\115f75f924d14e69e9fb3c9f43201ea5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\12\12957c54440d6d5ed6ed75d84bf15131
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\12\12957c54440d6d5ed6ed75d84bf15131
+      projectPath: Library\Artifacts\12\12957c54440d6d5ed6ed75d84bf15131
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\13\1319b72f02647bb5b2379bba3a50f87d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\13\1319b72f02647bb5b2379bba3a50f87d
+      projectPath: Library\Artifacts\13\1319b72f02647bb5b2379bba3a50f87d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\15\156312e6ea09940daefafdfbd0809148
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\15\156312e6ea09940daefafdfbd0809148
+      projectPath: Library\Artifacts\15\156312e6ea09940daefafdfbd0809148
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\15\156ccb4e1675706180c3b1fd5b3a7501
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\15\156ccb4e1675706180c3b1fd5b3a7501
+      projectPath: Library\Artifacts\15\156ccb4e1675706180c3b1fd5b3a7501
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\16\162573d30a06e220c05813ed9a4a0620
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\16\162573d30a06e220c05813ed9a4a0620
+      projectPath: Library\Artifacts\16\162573d30a06e220c05813ed9a4a0620
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\16\164f82394ecf8616d5a5785b4d7f4dac
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\16\164f82394ecf8616d5a5785b4d7f4dac
+      projectPath: Library\Artifacts\16\164f82394ecf8616d5a5785b4d7f4dac
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\19\1912cd6d38e25465f90e1c62be7ed69b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\19\1912cd6d38e25465f90e1c62be7ed69b
+      projectPath: Library\Artifacts\19\1912cd6d38e25465f90e1c62be7ed69b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1a\1a547af8248b492405d192282b9eb902
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1a\1a547af8248b492405d192282b9eb902
+      projectPath: Library\Artifacts\1a\1a547af8248b492405d192282b9eb902
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1c\1c36ba7217f1bde9d3b7dae1c170f552
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1c\1c36ba7217f1bde9d3b7dae1c170f552
+      projectPath: Library\Artifacts\1c\1c36ba7217f1bde9d3b7dae1c170f552
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1c\1c5321ef8a676a20fa140a5562edda8f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1c\1c5321ef8a676a20fa140a5562edda8f
+      projectPath: Library\Artifacts\1c\1c5321ef8a676a20fa140a5562edda8f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1c\1c98887fcb4891360a71992f718bf53a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1c\1c98887fcb4891360a71992f718bf53a
+      projectPath: Library\Artifacts\1c\1c98887fcb4891360a71992f718bf53a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1d\1d14012b20b24dc0ff8f0af34e762fb5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1d\1d14012b20b24dc0ff8f0af34e762fb5
+      projectPath: Library\Artifacts\1d\1d14012b20b24dc0ff8f0af34e762fb5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1d\1d226f7ac966678b7777fea78bfc7190
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1d\1d226f7ac966678b7777fea78bfc7190
+      projectPath: Library\Artifacts\1d\1d226f7ac966678b7777fea78bfc7190
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1d\1d9c10e4555cc3f2492e9bc17df40090
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1d\1d9c10e4555cc3f2492e9bc17df40090
+      projectPath: Library\Artifacts\1d\1d9c10e4555cc3f2492e9bc17df40090
+      originalPath: Murdered\Library\Artifacts\38\38ee032dec939ac627bff29d4c8ee97e
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\1d\1db93ba9c79d89f17549507cc1290998
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\1d\1db93ba9c79d89f17549507cc1290998
+      projectPath: Library\Artifacts\1d\1db93ba9c79d89f17549507cc1290998
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\20\2089923e48c939f48abdeac99c2d89a5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\20\2089923e48c939f48abdeac99c2d89a5
+      projectPath: Library\Artifacts\20\2089923e48c939f48abdeac99c2d89a5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\21\216687ea8366787e46954d76239aaa56
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\21\216687ea8366787e46954d76239aaa56
+      projectPath: Library\Artifacts\21\216687ea8366787e46954d76239aaa56
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+      projectPath: Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+      originalPath: Murdered\Library\Artifacts\91\91ed8599acd40067dab52d8e25489978
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\26\26f9de967f287a0924d4b0faacb77cec
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\26\26f9de967f287a0924d4b0faacb77cec
+      projectPath: Library\Artifacts\26\26f9de967f287a0924d4b0faacb77cec
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\27\27c82ebcde427fee21cbbd266f4f7321
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\27\27c82ebcde427fee21cbbd266f4f7321
+      projectPath: Library\Artifacts\27\27c82ebcde427fee21cbbd266f4f7321
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\29\29a25f6e0685053273327dc14bb20d76
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\29\29a25f6e0685053273327dc14bb20d76
+      projectPath: Library\Artifacts\29\29a25f6e0685053273327dc14bb20d76
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\2c\2c3d86b1f38c1649ab885ac267c47128
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\2c\2c3d86b1f38c1649ab885ac267c47128
+      projectPath: Library\Artifacts\2c\2c3d86b1f38c1649ab885ac267c47128
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\2d\2d2ed2e0833a99a172cc0e0c48aec106
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\2d\2d2ed2e0833a99a172cc0e0c48aec106
+      projectPath: Library\Artifacts\2d\2d2ed2e0833a99a172cc0e0c48aec106
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\2d\2d927d49ed209ad4810370cdad8184f4
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\2d\2d927d49ed209ad4810370cdad8184f4
+      projectPath: Library\Artifacts\2d\2d927d49ed209ad4810370cdad8184f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\2f\2f4b85b6b84d1d4fc252234ae17b1c0a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\2f\2f4b85b6b84d1d4fc252234ae17b1c0a
+      projectPath: Library\Artifacts\2f\2f4b85b6b84d1d4fc252234ae17b1c0a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\2f\2fdddbe2459710cd28e0622054ab4c4b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\2f\2fdddbe2459710cd28e0622054ab4c4b
+      projectPath: Library\Artifacts\2f\2fdddbe2459710cd28e0622054ab4c4b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\30\302b128b8274731e12d4053b980f4575
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\30\302b128b8274731e12d4053b980f4575
+      projectPath: Library\Artifacts\30\302b128b8274731e12d4053b980f4575
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\30\3056a9a350d5103f6434c8dd882207b7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\30\3056a9a350d5103f6434c8dd882207b7
+      projectPath: Library\Artifacts\30\3056a9a350d5103f6434c8dd882207b7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\31\3136a099a1c59c0ab1797dc62047c0c7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\31\3136a099a1c59c0ab1797dc62047c0c7
+      projectPath: Library\Artifacts\31\3136a099a1c59c0ab1797dc62047c0c7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\31\31e2d6de3a5efdaf759ac76a1db8bf26
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\31\31e2d6de3a5efdaf759ac76a1db8bf26
+      projectPath: Library\Artifacts\31\31e2d6de3a5efdaf759ac76a1db8bf26
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\32\32da5ebe6c0c5d940cad7f2c1fd54230
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\32\32da5ebe6c0c5d940cad7f2c1fd54230
+      projectPath: Library\Artifacts\32\32da5ebe6c0c5d940cad7f2c1fd54230
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\33\334dd6b8fdc234933e23d9598f5b9c01
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\33\334dd6b8fdc234933e23d9598f5b9c01
+      projectPath: Library\Artifacts\33\334dd6b8fdc234933e23d9598f5b9c01
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\34\346600a8a0765c70cf9b2f08fdd5ab12
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\34\346600a8a0765c70cf9b2f08fdd5ab12
+      projectPath: Library\Artifacts\34\346600a8a0765c70cf9b2f08fdd5ab12
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\34\34cb33a40acd7ce2bbbb7a30cef141a1
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\34\34cb33a40acd7ce2bbbb7a30cef141a1
+      projectPath: Library\Artifacts\34\34cb33a40acd7ce2bbbb7a30cef141a1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\34\34f9af7ae6be40dd1396d2d1d9aaa84b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\34\34f9af7ae6be40dd1396d2d1d9aaa84b
+      projectPath: Library\Artifacts\34\34f9af7ae6be40dd1396d2d1d9aaa84b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\35\352b730ba16a5c63b623a1d76d6944fe
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\35\352b730ba16a5c63b623a1d76d6944fe
+      projectPath: Library\Artifacts\35\352b730ba16a5c63b623a1d76d6944fe
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\35\35de6c269015d849e100dfaea3d21e31
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\35\35de6c269015d849e100dfaea3d21e31
+      projectPath: Library\Artifacts\35\35de6c269015d849e100dfaea3d21e31
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\36\36bde9822eb7f01e051ae183b621c520
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\36\36bde9822eb7f01e051ae183b621c520
+      projectPath: Library\Artifacts\36\36bde9822eb7f01e051ae183b621c520
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\38\38c93f3aa2139435131e785212efcafd
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\38\38c93f3aa2139435131e785212efcafd
+      projectPath: Library\Artifacts\38\38c93f3aa2139435131e785212efcafd
+      originalPath: Murdered\Library\Artifacts\d8\d8ddaa807698d4a92c6bc91a364e4533
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\39\3922b1be8351c448539feaf65110eb62
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\39\3922b1be8351c448539feaf65110eb62
+      projectPath: Library\Artifacts\39\3922b1be8351c448539feaf65110eb62
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\39\39e58a9dfe905168b4aab159c743a40c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\39\39e58a9dfe905168b4aab159c743a40c
+      projectPath: Library\Artifacts\39\39e58a9dfe905168b4aab159c743a40c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3a\3a8e66e8234728747d24508a7c8bbf99
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3a\3a8e66e8234728747d24508a7c8bbf99
+      projectPath: Library\Artifacts\3a\3a8e66e8234728747d24508a7c8bbf99
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3a\3a975ac8197d6c2383530604070cad37
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3a\3a975ac8197d6c2383530604070cad37
+      projectPath: Library\Artifacts\3a\3a975ac8197d6c2383530604070cad37
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+      projectPath: Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+      projectPath: Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3c\3cbf6b801f01407de9f57ea66ad68583
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3c\3cbf6b801f01407de9f57ea66ad68583
+      projectPath: Library\Artifacts\3c\3cbf6b801f01407de9f57ea66ad68583
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      projectPath: Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3d\3d87ee5ada868ac64e06a52380158d85
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3d\3d87ee5ada868ac64e06a52380158d85
+      projectPath: Library\Artifacts\3d\3d87ee5ada868ac64e06a52380158d85
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3e\3e908dc210fe37181ed3c199cd070a63
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3e\3e908dc210fe37181ed3c199cd070a63
+      projectPath: Library\Artifacts\3e\3e908dc210fe37181ed3c199cd070a63
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\3e\3eb1bb4c1097f812bfceee5f69ef0121
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\3e\3eb1bb4c1097f812bfceee5f69ef0121
+      projectPath: Library\Artifacts\3e\3eb1bb4c1097f812bfceee5f69ef0121
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\40\4046e948d925f4bf398c103a78e2738e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\40\4046e948d925f4bf398c103a78e2738e
+      projectPath: Library\Artifacts\40\4046e948d925f4bf398c103a78e2738e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\40\4093e517218e001e068c0b5d6b025b95
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\40\4093e517218e001e068c0b5d6b025b95
+      projectPath: Library\Artifacts\40\4093e517218e001e068c0b5d6b025b95
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\40\40f9658315ece1e9a11fd1e049dea884
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\40\40f9658315ece1e9a11fd1e049dea884
+      projectPath: Library\Artifacts\40\40f9658315ece1e9a11fd1e049dea884
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\41\410ae04cdedbbe3112eb482eaeae77bb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\41\410ae04cdedbbe3112eb482eaeae77bb
+      projectPath: Library\Artifacts\41\410ae04cdedbbe3112eb482eaeae77bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\41\4141ab49cbd56771af2a4e74707e28bf
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\41\4141ab49cbd56771af2a4e74707e28bf
+      projectPath: Library\Artifacts\41\4141ab49cbd56771af2a4e74707e28bf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\41\41c93bbd1c30d1d0b6f550c2370a942e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\41\41c93bbd1c30d1d0b6f550c2370a942e
+      projectPath: Library\Artifacts\41\41c93bbd1c30d1d0b6f550c2370a942e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\42\42f09d51c3b86d1199bffcc098870de9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\42\42f09d51c3b86d1199bffcc098870de9
+      projectPath: Library\Artifacts\42\42f09d51c3b86d1199bffcc098870de9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\44\449294be834019fa4f4666a76098d392
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\44\449294be834019fa4f4666a76098d392
+      projectPath: Library\Artifacts\44\449294be834019fa4f4666a76098d392
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\44\44c4ac193959b2e34be11b185bb43db8
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\44\44c4ac193959b2e34be11b185bb43db8
+      projectPath: Library\Artifacts\44\44c4ac193959b2e34be11b185bb43db8
+      originalPath: Murdered\Library\Artifacts\6c\6c11a6a19d3d6349ff86e728e5bf304a
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\45\45c760459cc9c8491ce5e61f946aac3b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\45\45c760459cc9c8491ce5e61f946aac3b
+      projectPath: Library\Artifacts\45\45c760459cc9c8491ce5e61f946aac3b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\46\4684544f8cae4376910900e14fecfc9c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\46\4684544f8cae4376910900e14fecfc9c
+      projectPath: Library\Artifacts\46\4684544f8cae4376910900e14fecfc9c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\48\48552417a8eb2aec2ac16fd3ee7a5bdc
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\48\48552417a8eb2aec2ac16fd3ee7a5bdc
+      projectPath: Library\Artifacts\48\48552417a8eb2aec2ac16fd3ee7a5bdc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\49\49245f34c289ef4c4d0b1b8caf1a5e9d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\49\49245f34c289ef4c4d0b1b8caf1a5e9d
+      projectPath: Library\Artifacts\49\49245f34c289ef4c4d0b1b8caf1a5e9d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\4b\4ba6e332ce87eeba67c14428395ff955
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\4b\4ba6e332ce87eeba67c14428395ff955
+      projectPath: Library\Artifacts\4b\4ba6e332ce87eeba67c14428395ff955
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\4c\4ce737054c6c193b9f0cde0e2c6c3aa8
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\4c\4ce737054c6c193b9f0cde0e2c6c3aa8
+      projectPath: Library\Artifacts\4c\4ce737054c6c193b9f0cde0e2c6c3aa8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\4f\4f180415bf0a963f2dee8fa24d5f1da3
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\4f\4f180415bf0a963f2dee8fa24d5f1da3
+      projectPath: Library\Artifacts\4f\4f180415bf0a963f2dee8fa24d5f1da3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\4f\4fbe37cea94adde8c65afb0ea356c039
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\4f\4fbe37cea94adde8c65afb0ea356c039
+      projectPath: Library\Artifacts\4f\4fbe37cea94adde8c65afb0ea356c039
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\50\50af37874a64bd21e6556793161e8c8f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\50\50af37874a64bd21e6556793161e8c8f
+      projectPath: Library\Artifacts\50\50af37874a64bd21e6556793161e8c8f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\53\5344930bdd3ba7567ef4ed402559cdb8
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\53\5344930bdd3ba7567ef4ed402559cdb8
+      projectPath: Library\Artifacts\53\5344930bdd3ba7567ef4ed402559cdb8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\53\53d5ab43c59b05df19c11e3382b16360
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\53\53d5ab43c59b05df19c11e3382b16360
+      projectPath: Library\Artifacts\53\53d5ab43c59b05df19c11e3382b16360
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\58\581a1432e14653d47308167a99b6a52f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\58\581a1432e14653d47308167a99b6a52f
+      projectPath: Library\Artifacts\58\581a1432e14653d47308167a99b6a52f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\59\597321b7db1084fa7b516b62c479a6e6
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\59\597321b7db1084fa7b516b62c479a6e6
+      projectPath: Library\Artifacts\59\597321b7db1084fa7b516b62c479a6e6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5a\5aca7cfb1a85a05ee1e43a8c02383f1b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5a\5aca7cfb1a85a05ee1e43a8c02383f1b
+      projectPath: Library\Artifacts\5a\5aca7cfb1a85a05ee1e43a8c02383f1b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5c\5c1853d4870d74ac862c28d4423d4d72
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5c\5c1853d4870d74ac862c28d4423d4d72
+      projectPath: Library\Artifacts\5c\5c1853d4870d74ac862c28d4423d4d72
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5c\5c3af187c5410bd921fb1f6a5f3061bb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5c\5c3af187c5410bd921fb1f6a5f3061bb
+      projectPath: Library\Artifacts\5c\5c3af187c5410bd921fb1f6a5f3061bb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5d\5d30b9483576cd76f247a2b8a4df19c8
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5d\5d30b9483576cd76f247a2b8a4df19c8
+      projectPath: Library\Artifacts\5d\5d30b9483576cd76f247a2b8a4df19c8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5e\5e29c7e2dc7cd34e1b7f66cb5b9ec6b5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5e\5e29c7e2dc7cd34e1b7f66cb5b9ec6b5
+      projectPath: Library\Artifacts\5e\5e29c7e2dc7cd34e1b7f66cb5b9ec6b5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5e\5ea7e98633b3befaac80230b8a459e48
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5e\5ea7e98633b3befaac80230b8a459e48
+      projectPath: Library\Artifacts\5e\5ea7e98633b3befaac80230b8a459e48
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5f\5f7b3a46525051b9023550110bef3d96
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5f\5f7b3a46525051b9023550110bef3d96
+      projectPath: Library\Artifacts\5f\5f7b3a46525051b9023550110bef3d96
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5f\5faafd302b13f2cf8ad0ee080507de3f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5f\5faafd302b13f2cf8ad0ee080507de3f
+      projectPath: Library\Artifacts\5f\5faafd302b13f2cf8ad0ee080507de3f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      projectPath: Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\60\609fe36fa28b65b1e01c78ed51f85736
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\60\609fe36fa28b65b1e01c78ed51f85736
+      projectPath: Library\Artifacts\60\609fe36fa28b65b1e01c78ed51f85736
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\61\61f31648fd17ebbdc095ae1c029296a5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\61\61f31648fd17ebbdc095ae1c029296a5
+      projectPath: Library\Artifacts\61\61f31648fd17ebbdc095ae1c029296a5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\63\638fe1d947eea4fe74fca15701e1152b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\63\638fe1d947eea4fe74fca15701e1152b
+      projectPath: Library\Artifacts\63\638fe1d947eea4fe74fca15701e1152b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\63\63dbddd3e5c2d1be3436e13a14afc61d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\63\63dbddd3e5c2d1be3436e13a14afc61d
+      projectPath: Library\Artifacts\63\63dbddd3e5c2d1be3436e13a14afc61d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\64\64ec0d2f07a4f39f17a3ed9b5edcb00d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\64\64ec0d2f07a4f39f17a3ed9b5edcb00d
+      projectPath: Library\Artifacts\64\64ec0d2f07a4f39f17a3ed9b5edcb00d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\65\65c9ccb074b52c899574850538441e0a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\65\65c9ccb074b52c899574850538441e0a
+      projectPath: Library\Artifacts\65\65c9ccb074b52c899574850538441e0a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+      projectPath: Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\66\667a258c524fbbbb6df2e0f26e799a73
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\66\667a258c524fbbbb6df2e0f26e799a73
+      projectPath: Library\Artifacts\66\667a258c524fbbbb6df2e0f26e799a73
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\66\66ad5dd36fa5df765f9913697e3c0bb4
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\66\66ad5dd36fa5df765f9913697e3c0bb4
+      projectPath: Library\Artifacts\66\66ad5dd36fa5df765f9913697e3c0bb4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\67\6731f2607c8e7c3019ba4c7bb832363c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\67\6731f2607c8e7c3019ba4c7bb832363c
+      projectPath: Library\Artifacts\67\6731f2607c8e7c3019ba4c7bb832363c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\67\67bf16883ebeef8e6070bd379b43e834
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\67\67bf16883ebeef8e6070bd379b43e834
+      projectPath: Library\Artifacts\67\67bf16883ebeef8e6070bd379b43e834
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\68\685472ea85517547bce683a7b9104022
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\68\685472ea85517547bce683a7b9104022
+      projectPath: Library\Artifacts\68\685472ea85517547bce683a7b9104022
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\69\691aaa4a38d7f0770ca380d13cfc783d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\69\691aaa4a38d7f0770ca380d13cfc783d
+      projectPath: Library\Artifacts\69\691aaa4a38d7f0770ca380d13cfc783d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\69\6949ee089b4509df845a266ba4a3106d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\69\6949ee089b4509df845a266ba4a3106d
+      projectPath: Library\Artifacts\69\6949ee089b4509df845a266ba4a3106d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\69\69b3369db3f961fc87a7527dc50b816b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\69\69b3369db3f961fc87a7527dc50b816b
+      projectPath: Library\Artifacts\69\69b3369db3f961fc87a7527dc50b816b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\6b\6bc1589bdb614a8dd04c95f0dbbc6bcb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\6b\6bc1589bdb614a8dd04c95f0dbbc6bcb
+      projectPath: Library\Artifacts\6b\6bc1589bdb614a8dd04c95f0dbbc6bcb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\6e\6e6557258e1b2a45955414dc2dd4454b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\6e\6e6557258e1b2a45955414dc2dd4454b
+      projectPath: Library\Artifacts\6e\6e6557258e1b2a45955414dc2dd4454b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\6e\6ee49c6b622826ff7b4d307572d3a7bd
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\6e\6ee49c6b622826ff7b4d307572d3a7bd
+      projectPath: Library\Artifacts\6e\6ee49c6b622826ff7b4d307572d3a7bd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\70\7052dc56d93c879911ef15b5a399b7b0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\70\7052dc56d93c879911ef15b5a399b7b0
+      projectPath: Library\Artifacts\70\7052dc56d93c879911ef15b5a399b7b0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\70\70705dbb4cba42428e5271966fe68cfa
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\70\70705dbb4cba42428e5271966fe68cfa
+      projectPath: Library\Artifacts\70\70705dbb4cba42428e5271966fe68cfa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\70\7090e1b2e0719a58878056296391e56e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\70\7090e1b2e0719a58878056296391e56e
+      projectPath: Library\Artifacts\70\7090e1b2e0719a58878056296391e56e
+      originalPath: Murdered\Library\Artifacts\48\482819d05690827865ba21393c68d058
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\70\70be01fe7b0410485e1c4da0ce7c076b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\70\70be01fe7b0410485e1c4da0ce7c076b
+      projectPath: Library\Artifacts\70\70be01fe7b0410485e1c4da0ce7c076b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\71\712c9074b521e8bbb30a571ada829050
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\71\712c9074b521e8bbb30a571ada829050
+      projectPath: Library\Artifacts\71\712c9074b521e8bbb30a571ada829050
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\72\72405b28dcf5aab90a80dbeb71176cb0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\72\72405b28dcf5aab90a80dbeb71176cb0
+      projectPath: Library\Artifacts\72\72405b28dcf5aab90a80dbeb71176cb0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\73\73269673a26de582365488ccbc9f8776
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\73\73269673a26de582365488ccbc9f8776
+      projectPath: Library\Artifacts\73\73269673a26de582365488ccbc9f8776
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\73\73b544d4aea40c84e6b8290832f9dabe
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\73\73b544d4aea40c84e6b8290832f9dabe
+      projectPath: Library\Artifacts\73\73b544d4aea40c84e6b8290832f9dabe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\74\74b2069d616f2ede3da201e6af3ecd74
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\74\74b2069d616f2ede3da201e6af3ecd74
+      projectPath: Library\Artifacts\74\74b2069d616f2ede3da201e6af3ecd74
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\75\7583cb86eef81ab9a2ae4c40195102da
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\75\7583cb86eef81ab9a2ae4c40195102da
+      projectPath: Library\Artifacts\75\7583cb86eef81ab9a2ae4c40195102da
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\75\75f5b3241df076d9f27f9f8387930a7c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\75\75f5b3241df076d9f27f9f8387930a7c
+      projectPath: Library\Artifacts\75\75f5b3241df076d9f27f9f8387930a7c
+      originalPath: Murdered\Library\Artifacts\ac\ac8d918e0a7edb805f91cf47472c4a23
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\76\7614dd961dd2ed7a17a401586ac1a4e1
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\76\7614dd961dd2ed7a17a401586ac1a4e1
+      projectPath: Library\Artifacts\76\7614dd961dd2ed7a17a401586ac1a4e1
+      originalPath: Murdered\Library\Artifacts\ac\ace0f00c99517b4b3bbeeea3ddffcafa
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\76\76eea3fd42dce850e1281d791a6a7ce5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\76\76eea3fd42dce850e1281d791a6a7ce5
+      projectPath: Library\Artifacts\76\76eea3fd42dce850e1281d791a6a7ce5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\77\779d09dc3a649fcbda50189be6072a3c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\77\779d09dc3a649fcbda50189be6072a3c
+      projectPath: Library\Artifacts\77\779d09dc3a649fcbda50189be6072a3c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\77\779d44ea73a093f275ae49af55302318
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\77\779d44ea73a093f275ae49af55302318
+      projectPath: Library\Artifacts\77\779d44ea73a093f275ae49af55302318
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\77\77c1ec0b302c1613fd51c8d18e38fa6b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\77\77c1ec0b302c1613fd51c8d18e38fa6b
+      projectPath: Library\Artifacts\77\77c1ec0b302c1613fd51c8d18e38fa6b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\79\79b474fc4f76b81d7fc904d7ce9f2a02
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\79\79b474fc4f76b81d7fc904d7ce9f2a02
+      projectPath: Library\Artifacts\79\79b474fc4f76b81d7fc904d7ce9f2a02
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\79\79c1a897424396a497b3969f6f106096
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\79\79c1a897424396a497b3969f6f106096
+      projectPath: Library\Artifacts\79\79c1a897424396a497b3969f6f106096
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\79\79ca2b219f10be35de354207099fdc9f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\79\79ca2b219f10be35de354207099fdc9f
+      projectPath: Library\Artifacts\79\79ca2b219f10be35de354207099fdc9f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7a\7a0067614a29e84b6735edf22daf61c7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7a\7a0067614a29e84b6735edf22daf61c7
+      projectPath: Library\Artifacts\7a\7a0067614a29e84b6735edf22daf61c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7a\7a61b9f675ccab85d01adc503b9a5593
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7a\7a61b9f675ccab85d01adc503b9a5593
+      projectPath: Library\Artifacts\7a\7a61b9f675ccab85d01adc503b9a5593
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7a\7a7713e6957af2c4a4a3beaf081e68e7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7a\7a7713e6957af2c4a4a3beaf081e68e7
+      projectPath: Library\Artifacts\7a\7a7713e6957af2c4a4a3beaf081e68e7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7a\7a9a6d1a571df1306666b8b98bb233d9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7a\7a9a6d1a571df1306666b8b98bb233d9
+      projectPath: Library\Artifacts\7a\7a9a6d1a571df1306666b8b98bb233d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7b\7b77f10500dfd87ea0b31d30cff7af8f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7b\7b77f10500dfd87ea0b31d30cff7af8f
+      projectPath: Library\Artifacts\7b\7b77f10500dfd87ea0b31d30cff7af8f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7b\7bcc3606857e3b7c178f642c48ff02b6
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7b\7bcc3606857e3b7c178f642c48ff02b6
+      projectPath: Library\Artifacts\7b\7bcc3606857e3b7c178f642c48ff02b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7b\7bea16da1b8ee8871cdef8c6525cc723
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7b\7bea16da1b8ee8871cdef8c6525cc723
+      projectPath: Library\Artifacts\7b\7bea16da1b8ee8871cdef8c6525cc723
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7c\7cb24b5f62602f619ecb85da8ee7e69a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7c\7cb24b5f62602f619ecb85da8ee7e69a
+      projectPath: Library\Artifacts\7c\7cb24b5f62602f619ecb85da8ee7e69a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7d\7d5602a5fa236bb5451f48fda654fd5d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7d\7d5602a5fa236bb5451f48fda654fd5d
+      projectPath: Library\Artifacts\7d\7d5602a5fa236bb5451f48fda654fd5d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7d\7d8c1cd429eef77dec1328aa015c31e8
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7d\7d8c1cd429eef77dec1328aa015c31e8
+      projectPath: Library\Artifacts\7d\7d8c1cd429eef77dec1328aa015c31e8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7e\7e1072ffe0cdca8fddecfb4e644ca780
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7e\7e1072ffe0cdca8fddecfb4e644ca780
+      projectPath: Library\Artifacts\7e\7e1072ffe0cdca8fddecfb4e644ca780
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7e\7e69c38981e5de4928a2646dee96b0a5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7e\7e69c38981e5de4928a2646dee96b0a5
+      projectPath: Library\Artifacts\7e\7e69c38981e5de4928a2646dee96b0a5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\7f\7ff8c21ecf7c86efa51325fd54388a1f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\7f\7ff8c21ecf7c86efa51325fd54388a1f
+      projectPath: Library\Artifacts\7f\7ff8c21ecf7c86efa51325fd54388a1f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\80\805392064c3bbe5e5eeb6c3b23ef92d0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\80\805392064c3bbe5e5eeb6c3b23ef92d0
+      projectPath: Library\Artifacts\80\805392064c3bbe5e5eeb6c3b23ef92d0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\80\808bc8469c23a0e96e1bfe2e558d6243
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\80\808bc8469c23a0e96e1bfe2e558d6243
+      projectPath: Library\Artifacts\80\808bc8469c23a0e96e1bfe2e558d6243
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\81\818d6d07bc9f27ce43e4bbb4abefbb99
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\81\818d6d07bc9f27ce43e4bbb4abefbb99
+      projectPath: Library\Artifacts\81\818d6d07bc9f27ce43e4bbb4abefbb99
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\82\82094485cdea9a7f7998b4af40639d83
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\82\82094485cdea9a7f7998b4af40639d83
+      projectPath: Library\Artifacts\82\82094485cdea9a7f7998b4af40639d83
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\82\820b59c5653e2a44fd8f45409833149d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\82\820b59c5653e2a44fd8f45409833149d
+      projectPath: Library\Artifacts\82\820b59c5653e2a44fd8f45409833149d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\83\831f3dfeae33127d57a4e38397bdd823
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\83\831f3dfeae33127d57a4e38397bdd823
+      projectPath: Library\Artifacts\83\831f3dfeae33127d57a4e38397bdd823
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\83\838b051eb8068c93b77d88a294aca203
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\83\838b051eb8068c93b77d88a294aca203
+      projectPath: Library\Artifacts\83\838b051eb8068c93b77d88a294aca203
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\84\84155479c6cc0eca9b0580cac384ead2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\84\84155479c6cc0eca9b0580cac384ead2
+      projectPath: Library\Artifacts\84\84155479c6cc0eca9b0580cac384ead2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\84\843a64b78f2a9122fa49fdc43b625841
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\84\843a64b78f2a9122fa49fdc43b625841
+      projectPath: Library\Artifacts\84\843a64b78f2a9122fa49fdc43b625841
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\85\85b38e71ec200f2a248d9bb8cf33f7b7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\85\85b38e71ec200f2a248d9bb8cf33f7b7
+      projectPath: Library\Artifacts\85\85b38e71ec200f2a248d9bb8cf33f7b7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\88\88b687259fe1c69a3c778da4d11345b3
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\88\88b687259fe1c69a3c778da4d11345b3
+      projectPath: Library\Artifacts\88\88b687259fe1c69a3c778da4d11345b3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+      projectPath: Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8a\8ac399e20b0dd4e5142f9543f1eb82f2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8a\8ac399e20b0dd4e5142f9543f1eb82f2
+      projectPath: Library\Artifacts\8a\8ac399e20b0dd4e5142f9543f1eb82f2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8a\8ae82c6b8cef806d795158110fbc4049
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8a\8ae82c6b8cef806d795158110fbc4049
+      projectPath: Library\Artifacts\8a\8ae82c6b8cef806d795158110fbc4049
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8b\8b783fc7fb67d8c47436a3b9dba23251
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8b\8b783fc7fb67d8c47436a3b9dba23251
+      projectPath: Library\Artifacts\8b\8b783fc7fb67d8c47436a3b9dba23251
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8b\8bc2000574010e22ebdcd88915ac2bb6
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8b\8bc2000574010e22ebdcd88915ac2bb6
+      projectPath: Library\Artifacts\8b\8bc2000574010e22ebdcd88915ac2bb6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8c\8c2cfe3fd3226beb5249d60bedd9e91c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8c\8c2cfe3fd3226beb5249d60bedd9e91c
+      projectPath: Library\Artifacts\8c\8c2cfe3fd3226beb5249d60bedd9e91c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8d\8d44b018f131fe0f6b266b82bb17c577
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8d\8d44b018f131fe0f6b266b82bb17c577
+      projectPath: Library\Artifacts\8d\8d44b018f131fe0f6b266b82bb17c577
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      projectPath: Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\90\9068e8a4b1ea99c4177705a1d5cae606
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\90\9068e8a4b1ea99c4177705a1d5cae606
+      projectPath: Library\Artifacts\90\9068e8a4b1ea99c4177705a1d5cae606
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\91\913d1f8b9840b6195650a223ed9dbcff
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\91\913d1f8b9840b6195650a223ed9dbcff
+      projectPath: Library\Artifacts\91\913d1f8b9840b6195650a223ed9dbcff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\93\9379f65749a5b1069f384f81b69f9970
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\93\9379f65749a5b1069f384f81b69f9970
+      projectPath: Library\Artifacts\93\9379f65749a5b1069f384f81b69f9970
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\93\93d4dd79646435c06a05bfad09d998f0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\93\93d4dd79646435c06a05bfad09d998f0
+      projectPath: Library\Artifacts\93\93d4dd79646435c06a05bfad09d998f0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\94\943da6d08cd7087f2add540e4122c46a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\94\943da6d08cd7087f2add540e4122c46a
+      projectPath: Library\Artifacts\94\943da6d08cd7087f2add540e4122c46a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\95\95d70ef5e49455fe43eec48e7c7de335
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\95\95d70ef5e49455fe43eec48e7c7de335
+      projectPath: Library\Artifacts\95\95d70ef5e49455fe43eec48e7c7de335
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\96\961106e1941f610831e0180aad5b9bf2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\96\961106e1941f610831e0180aad5b9bf2
+      projectPath: Library\Artifacts\96\961106e1941f610831e0180aad5b9bf2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\96\9673c6166b5b6fb43aee2e323627e809
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\96\9673c6166b5b6fb43aee2e323627e809
+      projectPath: Library\Artifacts\96\9673c6166b5b6fb43aee2e323627e809
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\96\96d9e1669d0d2f4a0540e49513b877d8
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\96\96d9e1669d0d2f4a0540e49513b877d8
+      projectPath: Library\Artifacts\96\96d9e1669d0d2f4a0540e49513b877d8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\98\987052f25120e201c5cc535265cffab4
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\98\987052f25120e201c5cc535265cffab4
+      projectPath: Library\Artifacts\98\987052f25120e201c5cc535265cffab4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\98\98808e03f21c2db4254b22edd639bd13
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\98\98808e03f21c2db4254b22edd639bd13
+      projectPath: Library\Artifacts\98\98808e03f21c2db4254b22edd639bd13
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\98\98e5482cbfcd0a8f4646b913522c6fa3
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\98\98e5482cbfcd0a8f4646b913522c6fa3
+      projectPath: Library\Artifacts\98\98e5482cbfcd0a8f4646b913522c6fa3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\99\9964adc9f28c6fd409cdd2445a97f6d7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\99\9964adc9f28c6fd409cdd2445a97f6d7
+      projectPath: Library\Artifacts\99\9964adc9f28c6fd409cdd2445a97f6d7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\99\99b62a202455db27664898fa78393c71
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\99\99b62a202455db27664898fa78393c71
+      projectPath: Library\Artifacts\99\99b62a202455db27664898fa78393c71
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\9a\9a2d661e5c39c11c06368c369a4aad73
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\9a\9a2d661e5c39c11c06368c369a4aad73
+      projectPath: Library\Artifacts\9a\9a2d661e5c39c11c06368c369a4aad73
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\9b\9b7a24a78b7d482a416a2d6939378d2e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\9b\9b7a24a78b7d482a416a2d6939378d2e
+      projectPath: Library\Artifacts\9b\9b7a24a78b7d482a416a2d6939378d2e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\9c\9c0f50e2d201b7f1f562676099c498cb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\9c\9c0f50e2d201b7f1f562676099c498cb
+      projectPath: Library\Artifacts\9c\9c0f50e2d201b7f1f562676099c498cb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\9c\9ccfb8892d56ca738794275611786ab2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\9c\9ccfb8892d56ca738794275611786ab2
+      projectPath: Library\Artifacts\9c\9ccfb8892d56ca738794275611786ab2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\9d\9dfee9091a059418867aa8f587824084
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\9d\9dfee9091a059418867aa8f587824084
+      projectPath: Library\Artifacts\9d\9dfee9091a059418867aa8f587824084
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      projectPath: Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a1\a16f92d7e0d76fb81bdd248ba9181a85
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a1\a16f92d7e0d76fb81bdd248ba9181a85
+      projectPath: Library\Artifacts\a1\a16f92d7e0d76fb81bdd248ba9181a85
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a1\a1881fb6180c3a1387f0838fb3cbe2d7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a1\a1881fb6180c3a1387f0838fb3cbe2d7
+      projectPath: Library\Artifacts\a1\a1881fb6180c3a1387f0838fb3cbe2d7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a1\a1fbfdad6a904b4425fa3e4300e41ae3
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a1\a1fbfdad6a904b4425fa3e4300e41ae3
+      projectPath: Library\Artifacts\a1\a1fbfdad6a904b4425fa3e4300e41ae3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a2\a24f71b67d8168779d9079c42d7629b7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a2\a24f71b67d8168779d9079c42d7629b7
+      projectPath: Library\Artifacts\a2\a24f71b67d8168779d9079c42d7629b7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a3\a3bc6054a860020390ebbfff1926fc51
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a3\a3bc6054a860020390ebbfff1926fc51
+      projectPath: Library\Artifacts\a3\a3bc6054a860020390ebbfff1926fc51
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a3\a3e4f3a48a26ea80285b81766203929c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a3\a3e4f3a48a26ea80285b81766203929c
+      projectPath: Library\Artifacts\a3\a3e4f3a48a26ea80285b81766203929c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a4\a47b1a0f48287dac43a9cd8e6646906a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a4\a47b1a0f48287dac43a9cd8e6646906a
+      projectPath: Library\Artifacts\a4\a47b1a0f48287dac43a9cd8e6646906a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a5\a53e3e459ee7fbbb3d7ea01d7e72b546
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a5\a53e3e459ee7fbbb3d7ea01d7e72b546
+      projectPath: Library\Artifacts\a5\a53e3e459ee7fbbb3d7ea01d7e72b546
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a5\a5b5130aad9e3955028e0b81d4db0939
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a5\a5b5130aad9e3955028e0b81d4db0939
+      projectPath: Library\Artifacts\a5\a5b5130aad9e3955028e0b81d4db0939
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a7\a75acf6b711ab87fbf8275a7c7292944
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a7\a75acf6b711ab87fbf8275a7c7292944
+      projectPath: Library\Artifacts\a7\a75acf6b711ab87fbf8275a7c7292944
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\a8\a8fdeda3f1e987e492b03268fc41e2b5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\a8\a8fdeda3f1e987e492b03268fc41e2b5
+      projectPath: Library\Artifacts\a8\a8fdeda3f1e987e492b03268fc41e2b5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\aa\aa0639bcf3fdafed3483ceec863e5bda
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\aa\aa0639bcf3fdafed3483ceec863e5bda
+      projectPath: Library\Artifacts\aa\aa0639bcf3fdafed3483ceec863e5bda
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\aa\aa6ba5ed2e896d05d543f53c2d522ba9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\aa\aa6ba5ed2e896d05d543f53c2d522ba9
+      projectPath: Library\Artifacts\aa\aa6ba5ed2e896d05d543f53c2d522ba9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\aa\aac55b787e7ace34dbb62fb2dd389e12
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\aa\aac55b787e7ace34dbb62fb2dd389e12
+      projectPath: Library\Artifacts\aa\aac55b787e7ace34dbb62fb2dd389e12
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\aa\aaca267ff821a4d8965884ecdb1c7cc1
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\aa\aaca267ff821a4d8965884ecdb1c7cc1
+      projectPath: Library\Artifacts\aa\aaca267ff821a4d8965884ecdb1c7cc1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\aa\aacd54dcc6d84680da239174b2afc951
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\aa\aacd54dcc6d84680da239174b2afc951
+      projectPath: Library\Artifacts\aa\aacd54dcc6d84680da239174b2afc951
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ab\ab6bb18491f409c23ef72c7d8f7fe60f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ab\ab6bb18491f409c23ef72c7d8f7fe60f
+      projectPath: Library\Artifacts\ab\ab6bb18491f409c23ef72c7d8f7fe60f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ad\ad7e08401e00ee2292b1244f4b0464aa
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ad\ad7e08401e00ee2292b1244f4b0464aa
+      projectPath: Library\Artifacts\ad\ad7e08401e00ee2292b1244f4b0464aa
+      originalPath: Murdered\Library\Artifacts\c9\c96b171e0882752a14c2acfcc5919838
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\b1\b16167dbdd8f53f30dbffe5dfa43db89
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\b1\b16167dbdd8f53f30dbffe5dfa43db89
+      projectPath: Library\Artifacts\b1\b16167dbdd8f53f30dbffe5dfa43db89
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\b1\b1b47b89961f35aa46c83ef51d98ea9f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\b1\b1b47b89961f35aa46c83ef51d98ea9f
+      projectPath: Library\Artifacts\b1\b1b47b89961f35aa46c83ef51d98ea9f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+      projectPath: Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\b4\b4e3fab3445fd2666f059dca79ac0395
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\b4\b4e3fab3445fd2666f059dca79ac0395
+      projectPath: Library\Artifacts\b4\b4e3fab3445fd2666f059dca79ac0395
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\b5\b59e4b6b34ba01f970a0edd56d552fc6
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\b5\b59e4b6b34ba01f970a0edd56d552fc6
+      projectPath: Library\Artifacts\b5\b59e4b6b34ba01f970a0edd56d552fc6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\b8\b82043b27650baac213f779af8c76900
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\b8\b82043b27650baac213f779af8c76900
+      projectPath: Library\Artifacts\b8\b82043b27650baac213f779af8c76900
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ba\ba8c499f4063c0f67e6d0135993e6002
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ba\ba8c499f4063c0f67e6d0135993e6002
+      projectPath: Library\Artifacts\ba\ba8c499f4063c0f67e6d0135993e6002
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ba\ba953dab26e8df6c7f26978ea798b84e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ba\ba953dab26e8df6c7f26978ea798b84e
+      projectPath: Library\Artifacts\ba\ba953dab26e8df6c7f26978ea798b84e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ba\babfd078f1f8d0a2d37e904cdb74f0ca
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ba\babfd078f1f8d0a2d37e904cdb74f0ca
+      projectPath: Library\Artifacts\ba\babfd078f1f8d0a2d37e904cdb74f0ca
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\bd\bd8cea723a4699d1727d2dc2422e44bb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\bd\bd8cea723a4699d1727d2dc2422e44bb
+      projectPath: Library\Artifacts\bd\bd8cea723a4699d1727d2dc2422e44bb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\be\be4f00a611ddc7b0869ee84d77c2fc7f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\be\be4f00a611ddc7b0869ee84d77c2fc7f
+      projectPath: Library\Artifacts\be\be4f00a611ddc7b0869ee84d77c2fc7f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\be\becf4576f0835e7df299baa490bbfa87
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\be\becf4576f0835e7df299baa490bbfa87
+      projectPath: Library\Artifacts\be\becf4576f0835e7df299baa490bbfa87
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c0\c04127216b851040e6a9f42fab87d375
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c0\c04127216b851040e6a9f42fab87d375
+      projectPath: Library\Artifacts\c0\c04127216b851040e6a9f42fab87d375
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c0\c06eee62e9fde1c88493b02efc39b94d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c0\c06eee62e9fde1c88493b02efc39b94d
+      projectPath: Library\Artifacts\c0\c06eee62e9fde1c88493b02efc39b94d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c1\c14cf0a4f39cd87bc8c638492ff30307
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c1\c14cf0a4f39cd87bc8c638492ff30307
+      projectPath: Library\Artifacts\c1\c14cf0a4f39cd87bc8c638492ff30307
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c2\c25049e2eb9469ef234cb9222a4a40d9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c2\c25049e2eb9469ef234cb9222a4a40d9
+      projectPath: Library\Artifacts\c2\c25049e2eb9469ef234cb9222a4a40d9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c3\c34c5941624cd57f7f098dee6a57f096
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c3\c34c5941624cd57f7f098dee6a57f096
+      projectPath: Library\Artifacts\c3\c34c5941624cd57f7f098dee6a57f096
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c4\c48473599481af1836c8f163909332ed
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c4\c48473599481af1836c8f163909332ed
+      projectPath: Library\Artifacts\c4\c48473599481af1836c8f163909332ed
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c5\c51f8d9031375210385887ffc448ba0f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c5\c51f8d9031375210385887ffc448ba0f
+      projectPath: Library\Artifacts\c5\c51f8d9031375210385887ffc448ba0f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c7\c74ec6b2037be6a5a00ebbf5ae9c67ab
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c7\c74ec6b2037be6a5a00ebbf5ae9c67ab
+      projectPath: Library\Artifacts\c7\c74ec6b2037be6a5a00ebbf5ae9c67ab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c7\c766dd627263dca20cf72071f0e72045
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c7\c766dd627263dca20cf72071f0e72045
+      projectPath: Library\Artifacts\c7\c766dd627263dca20cf72071f0e72045
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c8\c801c91bb855fb0d9eed0cebfa65ab18
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c8\c801c91bb855fb0d9eed0cebfa65ab18
+      projectPath: Library\Artifacts\c8\c801c91bb855fb0d9eed0cebfa65ab18
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\c8\c8418e465ce349872164befaed74b4e0
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\c8\c8418e465ce349872164befaed74b4e0
+      projectPath: Library\Artifacts\c8\c8418e465ce349872164befaed74b4e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ca\ca2412982a9ef2c292ab38f6773bbabb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ca\ca2412982a9ef2c292ab38f6773bbabb
+      projectPath: Library\Artifacts\ca\ca2412982a9ef2c292ab38f6773bbabb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\cc\cc7bf1f2bfc7902c78f80dd9b4a04b82
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\cc\cc7bf1f2bfc7902c78f80dd9b4a04b82
+      projectPath: Library\Artifacts\cc\cc7bf1f2bfc7902c78f80dd9b4a04b82
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\cd\cdcb4e0cb815aa3b3557273724f10678
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\cd\cdcb4e0cb815aa3b3557273724f10678
+      projectPath: Library\Artifacts\cd\cdcb4e0cb815aa3b3557273724f10678
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\cd\cdede814faf78ffd1258795c62e97d37
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\cd\cdede814faf78ffd1258795c62e97d37
+      projectPath: Library\Artifacts\cd\cdede814faf78ffd1258795c62e97d37
+      originalPath: Murdered\Library\Artifacts\0f\0fe04e6d8a39653e0888c9d37749d280
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\cf\cf4b21c5f7b445bc69bd3ffe6d59d484
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\cf\cf4b21c5f7b445bc69bd3ffe6d59d484
+      projectPath: Library\Artifacts\cf\cf4b21c5f7b445bc69bd3ffe6d59d484
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d0\d052c9ae0fe138602359d6d7102ced85
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d0\d052c9ae0fe138602359d6d7102ced85
+      projectPath: Library\Artifacts\d0\d052c9ae0fe138602359d6d7102ced85
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d0\d07c2159fb629059f9e3f37bff7073ac
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d0\d07c2159fb629059f9e3f37bff7073ac
+      projectPath: Library\Artifacts\d0\d07c2159fb629059f9e3f37bff7073ac
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d2\d2d2360b08d9e8fbb6a46ce135755b10
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d2\d2d2360b08d9e8fbb6a46ce135755b10
+      projectPath: Library\Artifacts\d2\d2d2360b08d9e8fbb6a46ce135755b10
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d4\d44e5e8eeae48e371910b6d79f09fb73
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d4\d44e5e8eeae48e371910b6d79f09fb73
+      projectPath: Library\Artifacts\d4\d44e5e8eeae48e371910b6d79f09fb73
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d4\d4ae665e431d9fbfa6915cf8b3f9aec9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d4\d4ae665e431d9fbfa6915cf8b3f9aec9
+      projectPath: Library\Artifacts\d4\d4ae665e431d9fbfa6915cf8b3f9aec9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d6\d67c04f9bcfcd4be4e08d1ad5e6d6863
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d6\d67c04f9bcfcd4be4e08d1ad5e6d6863
+      projectPath: Library\Artifacts\d6\d67c04f9bcfcd4be4e08d1ad5e6d6863
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d7\d7756fba796dd1f1b4bfa3c5d3c58dcd
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d7\d7756fba796dd1f1b4bfa3c5d3c58dcd
+      projectPath: Library\Artifacts\d7\d7756fba796dd1f1b4bfa3c5d3c58dcd
+      originalPath: Murdered\Library\Artifacts\60\602a674b86349ea89516bd905f6956e6
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d8\d84921b4ec0cc34577c064b2305a727d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d8\d84921b4ec0cc34577c064b2305a727d
+      projectPath: Library\Artifacts\d8\d84921b4ec0cc34577c064b2305a727d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d9\d908a659e4e0f8c57ff4d4755b9c4251
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d9\d908a659e4e0f8c57ff4d4755b9c4251
+      projectPath: Library\Artifacts\d9\d908a659e4e0f8c57ff4d4755b9c4251
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\d9\d97c538855e9e28e40df5aeed217818c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\d9\d97c538855e9e28e40df5aeed217818c
+      projectPath: Library\Artifacts\d9\d97c538855e9e28e40df5aeed217818c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+      projectPath: Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\db\db5fb72e323a05a810327a59e5512a3e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\db\db5fb72e323a05a810327a59e5512a3e
+      projectPath: Library\Artifacts\db\db5fb72e323a05a810327a59e5512a3e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\dd\dda4eef2de5c7beea4736895c4abee3c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\dd\dda4eef2de5c7beea4736895c4abee3c
+      projectPath: Library\Artifacts\dd\dda4eef2de5c7beea4736895c4abee3c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\dd\ddd1f714deb8b1b49d7863613adef13d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\dd\ddd1f714deb8b1b49d7863613adef13d
+      projectPath: Library\Artifacts\dd\ddd1f714deb8b1b49d7863613adef13d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\dd\ddff880c508adab255567e3d4e23eeb7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\dd\ddff880c508adab255567e3d4e23eeb7
+      projectPath: Library\Artifacts\dd\ddff880c508adab255567e3d4e23eeb7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\de\de10a45da44f82092b2bd4b90b777c14
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\de\de10a45da44f82092b2bd4b90b777c14
+      projectPath: Library\Artifacts\de\de10a45da44f82092b2bd4b90b777c14
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\de\de57242a5dfa18f3041c8e36498791f5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\de\de57242a5dfa18f3041c8e36498791f5
+      projectPath: Library\Artifacts\de\de57242a5dfa18f3041c8e36498791f5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e0\e0d255b520de6a72cbb9c40713ec3b06
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e0\e0d255b520de6a72cbb9c40713ec3b06
+      projectPath: Library\Artifacts\e0\e0d255b520de6a72cbb9c40713ec3b06
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e0\e0de4e50665cfb04e83df84833304aaf
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e0\e0de4e50665cfb04e83df84833304aaf
+      projectPath: Library\Artifacts\e0\e0de4e50665cfb04e83df84833304aaf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e1\e10a36fea452db2058135aaf29183c59
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e1\e10a36fea452db2058135aaf29183c59
+      projectPath: Library\Artifacts\e1\e10a36fea452db2058135aaf29183c59
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e1\e10c610c0e92c0c798673ad6a473d8a2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e1\e10c610c0e92c0c798673ad6a473d8a2
+      projectPath: Library\Artifacts\e1\e10c610c0e92c0c798673ad6a473d8a2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e1\e1e507beb2b8262eb1e4a2c7e73c0b65
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e1\e1e507beb2b8262eb1e4a2c7e73c0b65
+      projectPath: Library\Artifacts\e1\e1e507beb2b8262eb1e4a2c7e73c0b65
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e2\e2347bbeb8135a84c823fa83533fac57
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e2\e2347bbeb8135a84c823fa83533fac57
+      projectPath: Library\Artifacts\e2\e2347bbeb8135a84c823fa83533fac57
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e2\e23749ba43ace650c549798e300c656b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e2\e23749ba43ace650c549798e300c656b
+      projectPath: Library\Artifacts\e2\e23749ba43ace650c549798e300c656b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e3\e321f6be616e14394a9034d3963cc5b9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e3\e321f6be616e14394a9034d3963cc5b9
+      projectPath: Library\Artifacts\e3\e321f6be616e14394a9034d3963cc5b9
+      originalPath: Murdered\Library\Artifacts\7e\7ee08daf5a092f25e6c122ad82427bf2
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e3\e3da1458fb4726eae2a604bbbd66d799
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e3\e3da1458fb4726eae2a604bbbd66d799
+      projectPath: Library\Artifacts\e3\e3da1458fb4726eae2a604bbbd66d799
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e3\e3eea67d99a7ea3aa2210823eb3968d6
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e3\e3eea67d99a7ea3aa2210823eb3968d6
+      projectPath: Library\Artifacts\e3\e3eea67d99a7ea3aa2210823eb3968d6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e5\e5127ea2580761937aba45aa95273b6c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e5\e5127ea2580761937aba45aa95273b6c
+      projectPath: Library\Artifacts\e5\e5127ea2580761937aba45aa95273b6c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e7\e7441a249e2e9fc8a470072093aa4612
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e7\e7441a249e2e9fc8a470072093aa4612
+      projectPath: Library\Artifacts\e7\e7441a249e2e9fc8a470072093aa4612
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e8\e86d17184831c3273279e3852f21b26e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e8\e86d17184831c3273279e3852f21b26e
+      projectPath: Library\Artifacts\e8\e86d17184831c3273279e3852f21b26e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e8\e887339e3d9a687abbcfec59b6a0687a
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e8\e887339e3d9a687abbcfec59b6a0687a
+      projectPath: Library\Artifacts\e8\e887339e3d9a687abbcfec59b6a0687a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e9\e984bcc1fe2abbbde37543896197663f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e9\e984bcc1fe2abbbde37543896197663f
+      projectPath: Library\Artifacts\e9\e984bcc1fe2abbbde37543896197663f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\e9\e9cdde0d1578bdff7194fdf14b20fb4d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\e9\e9cdde0d1578bdff7194fdf14b20fb4d
+      projectPath: Library\Artifacts\e9\e9cdde0d1578bdff7194fdf14b20fb4d
+      originalPath: Murdered\Library\Artifacts\95\9505add2da846479c1336557e08c8870
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ea\ea5a8e60fa1fdfc715aeabbbad1385a7
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ea\ea5a8e60fa1fdfc715aeabbbad1385a7
+      projectPath: Library\Artifacts\ea\ea5a8e60fa1fdfc715aeabbbad1385a7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\eb\ebc9eadd6e00385ed534a94f52e96910
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\eb\ebc9eadd6e00385ed534a94f52e96910
+      projectPath: Library\Artifacts\eb\ebc9eadd6e00385ed534a94f52e96910
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\eb\ebebcc9e95fec53dc5e29c0b8a38344c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\eb\ebebcc9e95fec53dc5e29c0b8a38344c
+      projectPath: Library\Artifacts\eb\ebebcc9e95fec53dc5e29c0b8a38344c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ec\ec0aa8643798bd702ba840e468b8fb4d
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ec\ec0aa8643798bd702ba840e468b8fb4d
+      projectPath: Library\Artifacts\ec\ec0aa8643798bd702ba840e468b8fb4d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ec\ec93ccafd8ebe329c04ffa210d01e77e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ec\ec93ccafd8ebe329c04ffa210d01e77e
+      projectPath: Library\Artifacts\ec\ec93ccafd8ebe329c04ffa210d01e77e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ed\edca3b7df4c0bbf4f5ea13a2e5144f7b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ed\edca3b7df4c0bbf4f5ea13a2e5144f7b
+      projectPath: Library\Artifacts\ed\edca3b7df4c0bbf4f5ea13a2e5144f7b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ee\ee0d2d6cd26e66ea4410cb37dda5d657
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ee\ee0d2d6cd26e66ea4410cb37dda5d657
+      projectPath: Library\Artifacts\ee\ee0d2d6cd26e66ea4410cb37dda5d657
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ee\ee62989b06f60991c3edb3d67b6b2e6e
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ee\ee62989b06f60991c3edb3d67b6b2e6e
+      projectPath: Library\Artifacts\ee\ee62989b06f60991c3edb3d67b6b2e6e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ee\ee6bbc23854c8b3512e24fc9589bb880
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ee\ee6bbc23854c8b3512e24fc9589bb880
+      projectPath: Library\Artifacts\ee\ee6bbc23854c8b3512e24fc9589bb880
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ee\ee875774847fdb7ef5ce1dc3dbf96de1
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ee\ee875774847fdb7ef5ce1dc3dbf96de1
+      projectPath: Library\Artifacts\ee\ee875774847fdb7ef5ce1dc3dbf96de1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ee\eeae87dd65e6503fd9a7fcfd905cb570
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ee\eeae87dd65e6503fd9a7fcfd905cb570
+      projectPath: Library\Artifacts\ee\eeae87dd65e6503fd9a7fcfd905cb570
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f0\f075543cb52c8c8a4bea81b75a69a25f
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f0\f075543cb52c8c8a4bea81b75a69a25f
+      projectPath: Library\Artifacts\f0\f075543cb52c8c8a4bea81b75a69a25f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f1\f1628958e3e57c2a86af733b67f28809
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f1\f1628958e3e57c2a86af733b67f28809
+      projectPath: Library\Artifacts\f1\f1628958e3e57c2a86af733b67f28809
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f1\f1a643ed0c9a5f084f7fc61e63372303
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f1\f1a643ed0c9a5f084f7fc61e63372303
+      projectPath: Library\Artifacts\f1\f1a643ed0c9a5f084f7fc61e63372303
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f1\f1eba9fd54c28af114078013a56cd4b9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f1\f1eba9fd54c28af114078013a56cd4b9
+      projectPath: Library\Artifacts\f1\f1eba9fd54c28af114078013a56cd4b9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f4\f433204e5f4e41c35994a61ee3acb38c
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f4\f433204e5f4e41c35994a61ee3acb38c
+      projectPath: Library\Artifacts\f4\f433204e5f4e41c35994a61ee3acb38c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f4\f4536eb506f637a6858f514e8bed71d9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f4\f4536eb506f637a6858f514e8bed71d9
+      projectPath: Library\Artifacts\f4\f4536eb506f637a6858f514e8bed71d9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f5\f5095ae6c3c20bfbed35c72c579d4860
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f5\f5095ae6c3c20bfbed35c72c579d4860
+      projectPath: Library\Artifacts\f5\f5095ae6c3c20bfbed35c72c579d4860
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f5\f55e660714091dab4c8c8758681e4b06
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f5\f55e660714091dab4c8c8758681e4b06
+      projectPath: Library\Artifacts\f5\f55e660714091dab4c8c8758681e4b06
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f5\f5a13092135c66462e0809ab661b5c74
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f5\f5a13092135c66462e0809ab661b5c74
+      projectPath: Library\Artifacts\f5\f5a13092135c66462e0809ab661b5c74
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f5\f5dc6eff511cfe24ed5e7cb8566f36f5
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f5\f5dc6eff511cfe24ed5e7cb8566f36f5
+      projectPath: Library\Artifacts\f5\f5dc6eff511cfe24ed5e7cb8566f36f5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f6\f6e2c9fb315bf1de35a0b7a3a65181c9
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f6\f6e2c9fb315bf1de35a0b7a3a65181c9
+      projectPath: Library\Artifacts\f6\f6e2c9fb315bf1de35a0b7a3a65181c9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+      projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\f7\f7e2eec48a6be9d8859865b1db17c103
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\f7\f7e2eec48a6be9d8859865b1db17c103
+      projectPath: Library\Artifacts\f7\f7e2eec48a6be9d8859865b1db17c103
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\fa\fae38da531e470a7fb703e57072b4161
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\fa\fae38da531e470a7fb703e57072b4161
+      projectPath: Library\Artifacts\fa\fae38da531e470a7fb703e57072b4161
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\fb\fb3d8725b5de1c9249ec773b83310c77
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\fb\fb3d8725b5de1c9249ec773b83310c77
+      projectPath: Library\Artifacts\fb\fb3d8725b5de1c9249ec773b83310c77
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\fd\fdf0a4b33ddc999a02cba04b2e7ca33b
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\fd\fdf0a4b33ddc999a02cba04b2e7ca33b
+      projectPath: Library\Artifacts\fd\fdf0a4b33ddc999a02cba04b2e7ca33b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ff\ff49f524554793f6c8da5101f5cdcea2
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ff\ff49f524554793f6c8da5101f5cdcea2
+      projectPath: Library\Artifacts\ff\ff49f524554793f6c8da5101f5cdcea2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ff\ff5d863c7488fa425800443be88579eb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ff\ff5d863c7488fa425800443be88579eb
+      projectPath: Library\Artifacts\ff\ff5d863c7488fa425800443be88579eb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Artifacts\ff\ffc5bc77caacba710b5660a15d410651
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Artifacts\ff\ffc5bc77caacba710b5660a15d410651
+      projectPath: Library\Artifacts\ff\ffc5bc77caacba710b5660a15d410651
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\Collab\CollabSnapshot_f0de6c71-9373-4641-a66c-d90285f768b2.txt
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\Collab\CollabSnapshot_f0de6c71-9373-4641-a66c-d90285f768b2.txt
+      projectPath: Library\Collab\CollabSnapshot_f0de6c71-9373-4641-a66c-d90285f768b2.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      projectPath: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.InputSystem.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.InputSystem.dll
+      projectPath: Library\ScriptAssemblies\Unity.InputSystem.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\ShaderCache\2\2524412e8d7fdb2444aeb1290a5a5ba5.bin
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ShaderCache\2\2524412e8d7fdb2444aeb1290a5a5ba5.bin
+      projectPath: Library\ShaderCache\2\2524412e8d7fdb2444aeb1290a5a5ba5.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ShaderCache\3\356356b51f5e208e426d592a8cc830ac.bin
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ShaderCache\3\356356b51f5e208e426d592a8cc830ac.bin
+      projectPath: Library\ShaderCache\3\356356b51f5e208e426d592a8cc830ac.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ShaderCache\3\3b4dce35a3fa7b12796bec0ddd58ab1f.bin
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ShaderCache\3\3b4dce35a3fa7b12796bec0ddd58ab1f.bin
+      projectPath: Library\ShaderCache\3\3b4dce35a3fa7b12796bec0ddd58ab1f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ShaderCache\4\4701bc578177089e8c84daa7988699a7.bin
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ShaderCache\4\4701bc578177089e8c84daa7988699a7.bin
+      projectPath: Library\ShaderCache\4\4701bc578177089e8c84daa7988699a7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ShaderCache\e\e2ccc93d620217ac4cec20b9f44bc6a5.bin
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ShaderCache\e\e2ccc93d620217ac4cec20b9f44bc6a5.bin
+      projectPath: Library\ShaderCache\e\e2ccc93d620217ac4cec20b9f44bc6a5.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\ShaderCache\f\ff60a57b67be318bd8f305899a323ddd.bin
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\ShaderCache\f\ff60a57b67be318bd8f305899a323ddd.bin
+      projectPath: Library\ShaderCache\f\ff60a57b67be318bd8f305899a323ddd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\SourceAssetDB
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\SourceAssetDB-lock
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\StateCache\SceneView\cc2798-mainStage.json
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\StateCache\SceneView\cc2798-mainStage.json
+      projectPath: Library\StateCache\SceneView\cc2798-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\Murdered.sln
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\Murdered.sln
+      projectPath: Murdered.sln
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Murdered\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\adrie\Desktop\Murdered\Murdered\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 880b45b08b903e914096615d40788a32b8caa675
     mergeA: 
     mergeB: 
